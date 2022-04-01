@@ -1,6 +1,7 @@
 
 /**
  * 
+ //给下一页的按钮在开发者模式添加一个点击事件，每次点击会将上一页的四星或五星展示到控制台内
 onclick="var n = document.getElementsByClassName('name');
 var c = document.getElementsByClassName('item_4');
 var w = document.getElementsByClassName('item_5');
